@@ -1,5 +1,7 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=slice&height=280&color=0:1a1a1a,100:8c3b00&text=Hammer%20%26%20Anvil%20%E2%9A%92%EF%B8%8F&fontColor=f5f5f5&fontSize=62&fontAlignY=45&animation=fadeIn)
+
+
+![header](https://capsule-render.vercel.app/api?type=rect&height=260&color=0:232526,100:414345&text=Hammer%20%26%20Anvil%20%F0%9F%94%A8&fontColor=fafafa&fontSize=60&fontAlignY=50)
 
 <!--
 **thinkAnvil/thinkAnvil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
