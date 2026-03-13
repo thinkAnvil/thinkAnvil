@@ -10,6 +10,8 @@
 ## Tech Stack
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
 
 ## stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinkAnvil)](https://github.com/anuraghazra/github-readme-stats)
