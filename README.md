@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**![header](https://capsule-render.vercel.app/api?type=slice&amp;height=300&amp;color=2b2b2b&amp;text=Hammer%20%26%20Anvil%20%F0%9F%94%A8%E2%9A%92%EF%B8%8F%E2%9C%A8&amp;fontColor=ffffff&amp;fontSize=55&amp;fontAlignY=65)**
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hammer%20%26%20Anvil%20%F0%9F%94%A8%E2%9A%92%EF%B8%8F%E2%9C%A8)
 
 <!--
